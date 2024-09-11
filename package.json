@@ -1,0 +1,19 @@
+{
+  "name": "book-archive",
+  "version": "1.0.0",
+  "description": "book archive for ifls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RistekIFLS/BOOK-ARCHIVE.git"
+  },
+  "author": "ristekifls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RistekIFLS/BOOK-ARCHIVE/issues"
+  },
+  "homepage": "https://github.com/RistekIFLS/BOOK-ARCHIVE#readme"
+}
